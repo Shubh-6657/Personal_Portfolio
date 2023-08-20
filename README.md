@@ -1,5 +1,8 @@
 # Personal Portfolio
 
+_preview_![personal portfolio](https://github.com/Shubh-6657/Personal_Portfolio/assets/108170423/f0b8b47c-24c4-4514-8691-71f9304da442)
+
+
 This is my personal portfolio website, created with HTML, CSS, and JavaScript. It showcases my skills and experience as a web developer.
 
 ## Features
